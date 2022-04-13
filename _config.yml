@@ -4,7 +4,7 @@ email: seondnog3503@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   슉슉슉 슉슉 슉슉슉 슉슉
 show_excerpts: true # set to true to show excerpts on the homepage
-
+remote_theme: samarsault/plainwhite-jekyll
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
